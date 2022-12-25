@@ -1,0 +1,38 @@
+﻿<html>
+
+
+<head>
+<title>圖片操作</title>
+</head>
+
+
+<body>
+
+<h2>彩虹酥照片</h2>
+油皮用攪拌鋼打至混合放馬口碗蓋上靜置<P>
+        油皮包4個不同的油酥。
+      <P>
+        桿至不要超過桿麵棍長度捲起來等3-5分鐘後。
+      <P>
+        桿成方形包豆沙包。
+      <P>
+<img src="001.jpg" alt="第一張照片" width="400 heidht="300">
+<img src="002.jpg" alt="第二張照片" width="400 heidht="300">
+<img src="003.jpg" alt="第三張照片" width="400 heidht="300">
+
+<h2>彩虹酥照片</h2>
+油皮用攪拌鋼打至混合放馬口碗蓋上靜置<P>
+        油皮包4個不同的油酥。
+      <P>
+        桿至不要超過桿麵棍長度捲起來等3-5分鐘後。
+      <P>
+        桿成方形包豆沙包。
+      <P>
+<img src="004.jpg" alt="第四張照片" width="400 heidht="300">
+<img src="005.jpg" alt="第五張照片" width="400 heidht="300">
+<img src="006.jpg" alt="第六張照片" width="400 heidht="300">
+
+
+
+</body>
+</htmi>
